@@ -1,13 +1,13 @@
 {
     "name":  "Arclight Modpack",
-    "version":  "2026.11.08-0552",
+    "version":  "2026.11.08-0554",
     "minecraft":  "1.21.1",
     "neoforge":  "21.1.264",
     "files":  [
                   {
                       "path":  "config/prueba.txt",
-                      "sha256":  "69b28ebaead74abc7d91d209c261853a7751423a4577749f45c1e980251f411b",
-                      "size":  5
+                      "sha256":  "3c2230f7b96faccb8a2256afbf34b5460ba3611cfc83085e498fb16145647d32",
+                      "size":  6
                   },
                   {
                       "path":  "config/prueba2.txt",
